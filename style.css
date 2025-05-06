@@ -1,0 +1,79 @@
+body {
+    background-color: #121212;
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  h1, h4 {
+    text-align: center;
+  }
+  
+  .card {
+    background-color: #1f1f1f;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  input.form-control, select.form-select {
+    background-color: #2a2a2a;
+    color: white;
+    border: 1px solid #444;
+  }
+  
+  input.form-control:focus, select.form-select:focus {
+    background-color: #333;
+    border-color: #777;
+    box-shadow: none;
+  }
+  
+  .table {
+    background-color: #1f1f1f;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  .modal-content {
+    background-color: #1f1f1f;
+    color: #fff;
+  }
+  
+  .btn-close {
+    filter: invert(1);
+  }
+  
+  @media (max-width: 768px) {
+    .form-label {
+      font-size: 14px;
+    }
+    input, select, button {
+      font-size: 14px;
+    }
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  .btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+  }
+  
