@@ -123,14 +123,14 @@ Veja abaixo capturas reais do sistema em funcionamento:
 
 ### 📸 Tela - Modo Torneio
 
-![Tela do Torneio](./images/tela-torneio.png)  
+![Tela do Torneio](Tela-Torneio.png)  
 *Exemplo de gerenciamento de torneio com jogadores, reentradas e add-on registrados.*
 
 ---
 
 ### 📸 Tela - Modo Cash Game
 
-![Tela do Cash Game](./images/tela-cash.png)  
+![Tela do Cash Game](Tela-Cash.png)  
 *Exemplo de painel de controle em modo cash, com entradas, rebuys e saídas de cada jogador.*
 
 ---
