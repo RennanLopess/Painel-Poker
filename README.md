@@ -114,3 +114,23 @@ Você pode usá-lo, modificá-lo e distribuí-lo livremente, desde que preserve 
 
 🎯 **Poker é mais do que um jogo — é estratégia, controle e paixão.**  
 Este sistema foi feito para que você se preocupe apenas com as cartas na mesa — o resto, ele cuida pra você.
+
+...
+
+## 🖼️ Exemplos Visuais
+
+Veja abaixo capturas reais do sistema em funcionamento:
+
+### 📸 Tela - Modo Torneio
+
+![Tela do Torneio](./images/tela-torneio.png)  
+*Exemplo de gerenciamento de torneio com jogadores, reentradas e add-on registrados.*
+
+---
+
+### 📸 Tela - Modo Cash Game
+
+![Tela do Cash Game](./images/tela-cash.png)  
+*Exemplo de painel de controle em modo cash, com entradas, rebuys e saídas de cada jogador.*
+
+---
